@@ -1,6 +1,8 @@
 # C-PROGRAMMING
 My learning in C-programming.
->>>Introduction to C Programming 
+>>>Introduction to C Programming
+
+
 C is a powerful, high-performance, and general-purpose programming language developed in the early 1970s by Dennis Ritchie at Bell Labs. It was specifically designed for system-level programming and to develop the UNIX operating system, but its simplicity, efficiency, and portability quickly made it one of the most widely used programming languages of all time.
 
 C provides low-level memory access, minimal runtime overhead, and fine control over system resources, which makes it ideal for writing operating systems, embedded systems, compilers, and performance-critical applications.
