@@ -8,6 +8,8 @@ C is a powerful, high-performance, and general-purpose programming language deve
 C provides low-level memory access, minimal runtime overhead, and fine control over system resources, which makes it ideal for writing operating systems, embedded systems, compilers, and performance-critical applications.
 
 >>>Key Features:
+
+
 Structured Language: Supports modular programming using functions.
 
 Portability: Code written in C can run on different machines with minimal or no modification.
